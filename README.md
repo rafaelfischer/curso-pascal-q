@@ -17,8 +17,8 @@ Seguir o passo a passo de instalação.
 ### Projeto existente
 Mesmo fluxo anterior, pulando o passo 1.
 
-## Conhecer o Git
-Separe um tempo e conheça mais sobre o Git, é muito interessante e necessário para o mercado de trabalho.
+## Conhecendo o Git
+Separe um tempo e conheça mais sobre o Git, é muito interessante e necessário para quem é desenvolvedor de software, assim como você está buscando ser ou se aperfeiçoando para.
 Veja mais detalhes em vídeos no youtube ou me pergunte que fornecer mais [informações](https://docs.github.com/pt/get-started/using-git/about-git).
 Tem o [básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git) que é bem interessante também. Tem opções de vídeo também, porém em inglês - [Link](https://git-scm.com/videos).
 
