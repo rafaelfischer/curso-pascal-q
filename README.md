@@ -3,7 +3,6 @@ Treinamento de Linguagem Pascal contendo diversos exercícios afim de treinar pr
 
 É possível utilizar compilador online [Online Pascal Compiler](https://www.onlinegdb.com/online_pascal_compiler) ou baixar pelo link: [Pascalzim](https://drive.google.com/file/d/1dzpru5y7vw3fbXKfvZj0aMTPL0-iXx9M/view?usp=sharing) 
 Estrutura de diretórios:
-- src/
 - exercicios/
   - exercício 1: 
     - Objetivo: escrever na tela Ola Mundo
