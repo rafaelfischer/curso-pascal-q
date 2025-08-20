@@ -7,9 +7,10 @@ Seguir o passo a passo de instalação.
 Fluxo básico para novos projetos:
 1. Fazer o clone de um repositório
 2. Pull (baixar a versão mais recente)
-3. Add to Stage (adicionar a área de stage/pré-commit)
-4. Commit (dizer ao git que se quer fechar uma versão e subir ao controlador de versão)
-5. Push (subir para o diretório remoto - Github)
+3. Comece a produzir alterações, incluir diretórios e arquivos ao projeto.
+4. Após o passo acima, 'Add to Stage' (adicionar a área de stage/pré-commit)
+5. Uma vez adicionado ao Stage e concluindo o trabalho do momento, realizar o 'Commit' (dizer ao git que se quer fechar uma versão e subir ao controlador de versão)
+6. Concluída a versão ou o 'Commit', realizar o Push (subir para o repositório remoto - Github)
 
 Fluxo básico para um projeto existente, mesmo fluxo anterior, pulando passo 1.
 
