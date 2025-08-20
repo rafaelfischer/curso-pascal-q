@@ -2,9 +2,11 @@
 Treinamento de Linguagem Pascal contendo diversos exercícios afim de treinar programação/codificação do básico.
 
 ## Primeiro passo (Git):
-Instalar o [Github desktop](https://github.com/apps/desktop) 
+Instalar o [Github desktop](https://github.com/apps/desktop) \
 Seguir o passo a passo de instalação.
-Fluxo básico para novos projetos:
+
+## Fluxo básico
+### Novos projetos:
 1. Fazer o clone de um repositório
 2. Pull (baixar a versão mais recente)
 3. Comece a produzir alterações, incluir diretórios e arquivos ao projeto.
@@ -12,8 +14,13 @@ Fluxo básico para novos projetos:
 5. Uma vez adicionado ao Stage e concluindo o trabalho do momento, realizar o 'Commit' (dizer ao git que se quer fechar uma versão e subir ao controlador de versão)
 6. Concluída a versão ou o 'Commit', realizar o Push (subir para o repositório remoto - Github)
 
-Fluxo básico para um projeto existente, mesmo fluxo anterior, pulando passo 1.
+### Projeto existente
+Mesmo fluxo anterior, pulando o passo 1.
 
+## Conhecer o Git
+Separe um tempo e conheça mais sobre o Git, é muito interessante e necessário para o mercado de trabalho.
+Veja mais detalhes em vídeos no youtube ou me pergunte que fornecer mais [informações](https://docs.github.com/pt/get-started/using-git/about-git).
+Tem o [básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git) que é bem interessante também. Tem opções de vídeo também, porém em inglês - [Link](https://git-scm.com/videos).
 
 ## Desenvolvendo com Pascal
 É possível utilizar compilador online [Online Pascal Compiler](https://www.onlinegdb.com/online_pascal_compiler) ou baixar pelo link: [Pascalzim](https://drive.google.com/file/d/1dzpru5y7vw3fbXKfvZj0aMTPL0-iXx9M/view?usp=sharing) 
