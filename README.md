@@ -1,6 +1,20 @@
 # /curso-pascal-q
 Treinamento de Linguagem Pascal contendo diversos exercícios afim de treinar programação/codificação do básico.
 
+## Primeiro passo (Git):
+Instalar o [Github desktop](https://github.com/apps/desktop) 
+Seguir o passo a passo de instalação.
+Fluxo básico para novos projetos:
+1. Fazer o clone de um repositório
+2. Pull (baixar a versão mais recente)
+3. Add to Stage (adicionar a área de stage/pré-commit)
+4. Commit (dizer ao git que se quer fechar uma versão e subir ao controlador de versão)
+5. Push (subir para o diretório remoto - Github)
+
+Fluxo básico para um projeto existente, mesmo fluxo anterior, pulando passo 1.
+
+
+## Desenvolvendo com Pascal
 É possível utilizar compilador online [Online Pascal Compiler](https://www.onlinegdb.com/online_pascal_compiler) ou baixar pelo link: [Pascalzim](https://drive.google.com/file/d/1dzpru5y7vw3fbXKfvZj0aMTPL0-iXx9M/view?usp=sharing) 
 Estrutura de diretórios:
 - exercicios/
