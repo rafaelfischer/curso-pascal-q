@@ -104,7 +104,8 @@ program nome_do_programa;
   var
      variavel1: integer;
      variavel2: real;
-     variavel3: string[20];
+     variavel3: char;
+     variavel4: string[20];
 
 begin:
   //comentario -- colocar duas barras
