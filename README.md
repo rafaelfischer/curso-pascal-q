@@ -33,32 +33,60 @@ Tem o [básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A
 É possível utilizar compilador online [Online Pascal Compiler](https://www.onlinegdb.com/online_pascal_compiler) ou baixar pelo link: [Pascalzim](https://drive.google.com/file/d/1dzpru5y7vw3fbXKfvZj0aMTPL0-iXx9M/view?usp=sharing) 
 Estrutura de diretórios:
 - exercicios/
-  - exercício 1: 
-    - Objetivo: escrever na tela Ola Mundo
+  - Semana 1:
+    (Tipos, Variáveis e Constantes)
+    - Escrever na tela Ola Mundo
+    - Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
+    - Perguntar o nome de um aluno, pergunte as 4 notas e calcule a média aritmética(média simples), exibindo no final.
+    - Calcule o quadrado de um número. Pergunte o número, calcule e exiba no final o resultado.
+    - Calcule a área de um quadrado. Como calcular: Area = lado * lado
+    - Calcule a área de um retângulo. Area = comprimento * altura
+    - Calcule a área de um círculo com base no raio informado. Como calcular: A = PI . R ao quadrado
+    - (DESAFIO DA SEMANA): Você está montando um cadastro para uma empresa de vendas na internet, e precisa de fornecer este "formulário para esta empresa". Não se preocupe neste momento se irá ou não guardar
+    este dado em algum lugar. Pergunte ou obtenha os seguintes dados e depois exiba todos:
+      - Nome Completo
+      - Data de Nascimento
+      - Cidade/País de Origem(Nascimento)
+      - Endereço completo de onde mora
+      - País onde reside
+      - Data do Cadastro
+      - Escolaridade: (Ensino Básico/Ensino Fundamental/Ensino Superior)
 
-  - exercício 2:
-    - Objetivo: Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
+  - Semana 2:
+    (Condicionais)
+    - Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
+    - Pergunte um número. Diga se este numero é primo ou não, escrevendo na tela.
+    - Pergunte um número. Diga se este numero faz parte da tabuada do 3, escrevendo na tela.
+    - Pergunte a data de nascimento e verifique se a data atual é a data de aniversário. Se for, printe a mensagem de Feliz Aniversário, senão printe a mensagem hoje e dia X de Y de ZZZZ.
+    - Pergunte dados de um produto (Nome, Fabricante, Preço). Caso o mesmo inicie com uma vogal, acrescente *** (3 asteriscos) ao nome do produto. Ao final exiba todos os dados do produto.
 
-  - exercício 3: 
-    - Objetivo: Perguntar o nome de um aluno, pergunte as 4 notas e calcule a média aritmética, exibindo no final.
+  - Semana 3:
+    (Loops)
+    - Faça um programa que mostra os números de 0 a 100.
+    - Faça um programa que pergunte um número. Exiba os números de 0 até o número digitado, separados por um espaço, exibindo o resultado.
+    - Faça um programa que exiba de 0 a 100, somente os números pares, e exiba o resultado.
+    - Faça um programa que exiba de 0 a 100, somente os números ímpares e não divísiveis por 5, e exiba o resultado.
+    - Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
+    - Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
+    - Faça um programa que some de 0 a 100 somente os números primos, e exiba o resultado.
+    - Calcule o fatorial de um número. Pergunte o número, faça o loop e exiba o resultado no final.
+    - (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
+    Pense em uma válvula de escape, após perguntar os dados de um produto se deseja cadastrar um próximo. Se sim cadastre os produtos e fique com esta opcao até que não se deseje mais cadastrar um.
+    Ao final, exiba todo o catálogo de produtos criado.
+      
+  - Semana 4:
+    (Array e Matrizes)
+    - Faça um programa que guarde os números de 0 a 100 somente divisíveis por 2.
+    - Faça um programa que pergunte um número. Guarde os números de 0 até o número digitado em um array. Crie a somatória para os números pares e ímpares deste grupo, e exiba a somatória.
+    - Faça um programa que some de 200 a 500, somente os números pares, e exiba o resultado.
+    - Faça um programa que pergunte o valor de 4 produtos. Agora aplique um desconto de 10% ao valor de cada produto. Ao final, exiba o valor de cada produto, o valor do desconto e o valor de cada produto com o desconto aplicado. 
+    - Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
+    - Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
+    - (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço, Categoria - crie um grupo de categorias como: Comida, Roupas, Eletrônicos, Livros). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
+    Pense em uma válvula de escape, após perguntar os dados de um produto se deseja cadastrar um próximo. Se sim cadastre os produtos e fique com esta opcao até que não se deseje mais cadastrar um.
+    Ao final, exiba todo o catálogo de produtos criado, exibindo por categoria.
 
-  - exercício 4: 
-    - Objetivo: Calcule o quadrado de um número
-
-  - exercício 5: 
-    - Objetivo: Calcule a área de um quadrado.\
-    Como calcular: Area = lado * lado
-
-  - exercício 6:
-    - Objetivo: Calcule a área de um círculo com base no raio informado. \
-    Como calcular: A = PI . R ao quadrado
-
-  - exercício 7: 
-    - Objetivo: Calcule a área de um retângulo
-
-  - exercício 8 (desafio): 
-    - Objetivo: Calcule a raiz quadrada com base em um número informado\
-
+  
 > [!NOTE]
 > Estrutura de um programa em pascal\
 > O nome do programa neste exemplo é: nome_do_programa, e o nome do arquivo a ser salvo é: nome_do_programa.pas\
