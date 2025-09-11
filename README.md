@@ -33,7 +33,7 @@ Tem o [básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A
 É possível utilizar compilador online [Online Pascal Compiler](https://www.onlinegdb.com/online_pascal_compiler) ou baixar pelo link: [Pascalzim](https://drive.google.com/file/d/1dzpru5y7vw3fbXKfvZj0aMTPL0-iXx9M/view?usp=sharing) 
 Estrutura de diretórios:
 - exercicios/
-  - Semana 1:
+  - Grupo de Exercícios 1:
     (Tipos, Variáveis e Constantes)
     - Escrever na tela Ola Mundo
     - Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
@@ -52,7 +52,7 @@ Estrutura de diretórios:
       - Data do Cadastro
       - Escolaridade: (Ensino Básico/Ensino Fundamental/Ensino Superior)
 
-  - Semana 2:
+  - Grupo de Exercícios 2:
     (Condicionais)
     - Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
     - Pergunte um número. Diga se este numero é primo ou não, escrevendo na tela.
@@ -60,7 +60,7 @@ Estrutura de diretórios:
     - Pergunte a data de nascimento e verifique se a data atual é a data de aniversário. Se for, printe a mensagem de Feliz Aniversário, senão printe a mensagem hoje e dia X de Y de ZZZZ.
     - Pergunte dados de um produto (Nome, Fabricante, Preço). Caso o mesmo inicie com uma vogal, acrescente *** (3 asteriscos) ao nome do produto. Ao final exiba todos os dados do produto.
 
-  - Semana 3:
+  - Grupo de Exercícios 3:
     (Loops)
     - Faça um programa que mostra os números de 0 a 100.
     - Faça um programa que pergunte um número. Exiba os números de 0 até o número digitado, separados por um espaço, exibindo o resultado.
@@ -74,7 +74,7 @@ Estrutura de diretórios:
     Pense em uma válvula de escape, após perguntar os dados de um produto se deseja cadastrar um próximo. Se sim cadastre os produtos e fique com esta opcao até que não se deseje mais cadastrar um.
     Ao final, exiba todo o catálogo de produtos criado.
       
-  - Semana 4:
+  - Grupo de Exercícios 4:
     (Array e Matrizes)
     - Faça um programa que guarde os números de 0 a 100 somente divisíveis por 2.
     - Faça um programa que pergunte um número. Guarde os números de 0 até o número digitado em um array. Crie a somatória para os números pares e ímpares deste grupo, e exiba a somatória.
