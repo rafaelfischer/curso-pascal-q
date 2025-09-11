@@ -42,8 +42,8 @@ Estrutura de diretórios:
     - Calcule a área de um quadrado. Como calcular: Area = lado * lado
     - Calcule a área de um círculo com base no raio informado. Como calcular: A = PI . R ao quadrado
     - Calcule a área de um retângulo. Area = comprimento * altura
-    - (DESAFIO DA SEMANA): Você está montando um cadastro para uma empresa de vendas na internet, e precisa de fornecer este "formulário para esta empresa". Não se preocupe neste momento se irá ou não guardar
-    este dado em algum lugar. Pergunte ou obtenha os seguintes dados e depois exiba todos:
+    - (DESAFIO DA SEMANA): Você está montando um cadastro para uma empresa de vendas na internet, e precisa fornecer este "formulário de dados de clientes". Não se preocupe neste momento se irá ou não guardar
+    este dado em algum lugar. Pergunte e obtenha os seguintes dados e depois exiba todos na tela:
       - Nome Completo
       - Data de Nascimento
       - Cidade/País de Origem(Nascimento)
