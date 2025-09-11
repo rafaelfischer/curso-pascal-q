@@ -1,6 +1,6 @@
 {
   Objetivo do programa: incluir novo arquivo no github e demonstrar
-  o push
+  o push. Alterado no github.
   Data da criacao: YYYY-MM-DD
   Criado por: @programacaomentoria
 }  
