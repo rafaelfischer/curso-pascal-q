@@ -101,6 +101,9 @@ Estrutura de diretórios:
   Criado por: @programacaomentoria
 }  
 program nome_do_programa;
+  const
+    PI = 3.141592654;
+
   var
      variavel1: integer;
      variavel2: real;
