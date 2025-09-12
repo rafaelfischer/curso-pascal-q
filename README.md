@@ -108,7 +108,7 @@ program nome_do_programa;
      variavel1: integer;
      variavel2: real;
      variavel3: char;
-     variavel4: string[20];
+     variavel4: string;
 
 begin:
   //comentario -- colocar duas barras
