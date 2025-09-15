@@ -35,15 +35,14 @@ Estrutura de diretórios:
 - exercicios/
   - Grupo de Exercícios 1:
     (Tipos, Variáveis e Constantes)
-    - Escrever na tela Ola Mundo
-    - Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
-    - Perguntar o nome de um aluno, pergunte as 4 notas e calcule a média aritmética(média simples), exibindo no final.
-    - Calcule o quadrado de um número. Pergunte o número, calcule e exiba no final o resultado.
-    - Calcule a área de um quadrado. Como calcular: Area = lado * lado
-    - Calcule a área de um círculo com base no raio informado. Como calcular: A = PI . R ao quadrado
-    - Calcule a área de um retângulo. Area = comprimento * altura
-    - (DESAFIO DA SEMANA): Você está montando um cadastro para uma empresa de vendas na internet, e precisa fornecer este "formulário de dados de clientes". Não se preocupe neste momento se irá ou não guardar
-    este dado em algum lugar. Pergunte e obtenha os seguintes dados e depois exiba todos na tela:
+    1- Escrever na tela Ola Mundo
+    2- Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
+    3- Perguntar o nome de um aluno, pergunte as 4 notas e calcule a média aritmética(média simples), exibindo no final.
+    4- Calcule o quadrado de um número. Pergunte o número, calcule e exiba no final o resultado.
+    5- Calcule a área de um quadrado. Como calcular: Area = lado * lado
+    6- Calcule a área de um círculo com base no raio informado. Como calcular: A = PI . R ao quadrado
+    7- Calcule a área de um retângulo. Area = comprimento * altura
+    8- (DESAFIO DA SEMANA): Você está montando um cadastro para uma empresa de vendas na internet, e precisa fornecer este "formulário de dados de clientes". Não se preocupe neste momento se irá ou não guardar este dado em algum lugar. Pergunte e obtenha os seguintes dados e depois exiba todos na tela:
       - Nome Completo
       - Data de Nascimento
       - Cidade/País de Origem(Nascimento)
@@ -54,35 +53,35 @@ Estrutura de diretórios:
 
   - Grupo de Exercícios 2:
     (Condicionais)
-    - Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
-    - Pergunte um número. Diga se este numero é primo ou não, escrevendo na tela.
-    - Pergunte um número. Diga se este numero faz parte da tabuada do 3, escrevendo na tela.
-    - Pergunte a data de nascimento e verifique se a data atual é a data de aniversário. Se for, printe a mensagem de Feliz Aniversário, senão printe a mensagem hoje e dia X de Y de ZZZZ.
-    - Pergunte dados de um produto (Nome, Fabricante, Preço). Caso o mesmo inicie com uma vogal, acrescente *** (3 asteriscos) ao nome do produto. Ao final exiba todos os dados do produto.
+    1- Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
+    2- Pergunte um número. Diga se este numero é primo ou não, escrevendo na tela.
+    3- Pergunte um número. Diga se este numero faz parte da tabuada do 3, escrevendo na tela.
+    4- Pergunte a data de nascimento e verifique se a data atual é a data de aniversário. Se for, printe a mensagem de Feliz Aniversário, senão printe a mensagem hoje e dia X de Y de ZZZZ.
+    5- Pergunte dados de um produto (Nome, Fabricante, Preço). Caso o mesmo inicie com uma vogal, acrescente *** (3 asteriscos) ao nome do produto. Ao final exiba todos os dados do produto.
 
   - Grupo de Exercícios 3:
     (Loops)
-    - Faça um programa que mostra os números de 0 a 100.
-    - Faça um programa que pergunte um número. Exiba os números de 0 até o número digitado, separados por um espaço, exibindo o resultado.
-    - Faça um programa que exiba de 0 a 100, somente os números pares, e exiba o resultado.
-    - Faça um programa que exiba de 0 a 100, somente os números ímpares e não divísiveis por 5, e exiba o resultado.
-    - Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
-    - Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
-    - Faça um programa que some de 0 a 100 somente os números primos, e exiba o resultado.
-    - Calcule o fatorial de um número. Pergunte o número, faça o loop e exiba o resultado no final.
-    - (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
+    1- Faça um programa que mostra os números de 0 a 100.
+    2- Faça um programa que pergunte um número. Exiba os números de 0 até o número digitado, separados por um espaço, exibindo o resultado.
+    3- Faça um programa que exiba de 0 a 100, somente os números pares, e exiba o resultado.
+    4- Faça um programa que exiba de 0 a 100, somente os números ímpares e não divísiveis por 5, e exiba o resultado.
+    5- Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
+    6- Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
+    7- Faça um programa que some de 0 a 100 somente os números primos, e exiba o resultado.
+    8- Calcule o fatorial de um número. Pergunte o número, faça o loop e exiba o resultado no final.
+    9- (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
     Pense em uma válvula de escape, após perguntar os dados de um produto se deseja cadastrar um próximo. Se sim cadastre os produtos e fique com esta opcao até que não se deseje mais cadastrar um.
     Ao final, exiba todo o catálogo de produtos criado.
       
   - Grupo de Exercícios 4:
     (Array e Matrizes)
-    - Faça um programa que guarde os números de 0 a 100 somente divisíveis por 2.
-    - Faça um programa que pergunte um número. Guarde os números de 0 até o número digitado em um array. Crie a somatória para os números pares e ímpares deste grupo, e exiba a somatória.
-    - Faça um programa que some de 200 a 500, somente os números pares, e exiba o resultado.
-    - Faça um programa que pergunte o valor de 4 produtos. Agora aplique um desconto de 10% ao valor de cada produto. Ao final, exiba o valor de cada produto, o valor do desconto e o valor de cada produto com o desconto aplicado. 
-    - Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
-    - Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
-    - (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço, Categoria - crie um grupo de categorias como: Comida, Roupas, Eletrônicos, Livros). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
+    1- Faça um programa que guarde os números de 0 a 100 somente divisíveis por 2.
+    2- Faça um programa que pergunte um número. Guarde os números de 0 até o número digitado em um array. Crie a somatória para os números pares e ímpares deste grupo, e exiba a somatória.
+    3- Faça um programa que some de 200 a 500, somente os números pares, e exiba o resultado.
+    4- Faça um programa que pergunte o valor de 4 produtos. Agora aplique um desconto de 10% ao valor de cada produto. Ao final, exiba o valor de cada produto, o valor do desconto e o valor de cada produto com o desconto aplicado. 
+    5- Faça um programa que exiba de 0 a 100, somente os números primos, e exiba o resultado.
+    6- Faça um programa que some de 0 a 100 os números pares, e exiba o resultado.
+    7- (DESAFIO DA SEMANA): Faça um programa que pergunte os dados de X produtos (Nome, Fabricante, preço, Categoria - crie um grupo de categorias como: Comida, Roupas, Eletrônicos, Livros). O programa deve perguntar até que o programa perceba que não é necessário mais perguntar.
     Pense em uma válvula de escape, após perguntar os dados de um produto se deseja cadastrar um próximo. Se sim cadastre os produtos e fique com esta opcao até que não se deseje mais cadastrar um.
     Ao final, exiba todo o catálogo de produtos criado, exibindo por categoria.
 
