@@ -5,7 +5,7 @@
 	Ultima atualizacao: 2025-09-15
 	Alterado por: @rafaelfischer
 }
-program exercicio1;
+program exercicio3;
 var 
   	numero: integer;
 
