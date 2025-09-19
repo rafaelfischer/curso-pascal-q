@@ -10,7 +10,7 @@ var
   	numero: integer;
 
 begin
-	writeln('Eh um numero primo?');
+	writeln('Exercicio 3 - Tabuada do 3');
 	writeln('-----------------------');
 
 	write('Digite um numero: ');
