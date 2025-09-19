@@ -2,3 +2,5 @@
 
 *.cfg
 *.dir
+*.o
+*.exe
